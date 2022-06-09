@@ -14,7 +14,7 @@ There are four folders within this project: Diagnostic_data, Self_constructed_CN
 
 Diagnostic_data -- ML methods applied on the diagnostic (tabular) dataset.  
 Self_constructed_CNN -- VGG-16-like CNN applied on the image dataset.  
-Pre_trained_model -- Several pretrained CNN models applied on the image dataset. 
+Pre_trained_model -- Several pretrained CNN models applied on the image dataset.   
 SHAP -- SHAP analysis on both diagnostic data NN and image data NN. 
 
 
