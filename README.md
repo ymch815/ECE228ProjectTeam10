@@ -2,7 +2,7 @@
 
 This is the Github project for machine learning applications on breast cancer diagnosis, created by team 10 of ECE 228, 2022 spring.  
 
-People:   
+Group members:  
 Haodong Qin: qhaodong@ucsd.edu  
 Mingchen Yao: miyao@ucsd.edu  
 Min Zhong: mizhong@ucsd.edu  
